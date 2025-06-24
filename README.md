@@ -4,6 +4,6 @@ A basic 3.3V voltage regulator using the AMS1117-3.3 linear voltage regulator IC
 Components Used :
 AMS1117-3.3 Voltage Regulator IC
 
-Input Capacitor: 100 µF
+Input Capacitor: 10 µF
 
-Output Capacitor: 10µF
+Output Capacitor: 22 µF
